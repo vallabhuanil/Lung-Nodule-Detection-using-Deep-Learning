@@ -1,5 +1,5 @@
 Lung Nodule Detection Using Deep Learning
-**Creator:** Sampath Magapu
+**Creator:**AnilSai Vallabhu
 
 ## Overview
 This project implements a deep learning pipeline for detecting lung nodules from DICOM medical images using convolutional neural networks (CNNs). The model classifies input scans as containing lung nodules or not, automating a critical step in computer-aided diagnosis for lung cancer screening.[1]
