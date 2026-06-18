@@ -66,7 +66,7 @@ SDP/
 ## Citation
 If you use this code in academic work, please cite:
 ```
-@creator{Sampath Magapu,
+@creator{Anil Sai Vallabhu,
   title = {Lung Nodule Detection Using Deep Learning},
   year = {2025}
 }
